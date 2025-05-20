@@ -7,6 +7,7 @@ export default function Contact() {
             <ul>
                 <li><a href="https://github.com/jstnknr" target="_blank">GitHub</a></li>
                 <li><a href="https://instagram.com/jstnknr" target="_blank">Instagram</a></li>
+                <li><a href="www.linkedin.com/in/justin-keiner-36a044311" target="_blank">LinkedIn</a></li>
             </ul>
         </main>
     )
