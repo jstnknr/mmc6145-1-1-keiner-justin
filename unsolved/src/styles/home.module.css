@@ -1,3 +1,23 @@
 .placeholder {
   font-size: 4rem;
+  text-align: center;
+  margin: 2rem 0;
+}
+
+.project {
+  background-color: white;
+  padding: 1rem;
+  margin: 1rem auto;
+  max-width: 600px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.projectImage {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+  display: block;
+  margin: 1rem auto;
+  border-radius: 8px;
 }

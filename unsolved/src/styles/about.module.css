@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 2rem;
+  }
+  
+  .profileImage {
+    border-radius: 50%;
+    max-width: 200px;
+    margin-top: 1rem;
+  }
+  
